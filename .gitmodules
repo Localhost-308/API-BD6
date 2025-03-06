@@ -1,3 +1,9 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Localhost-308/backend-flask.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Localhost-308/server
+[submodule "client"]
+	path = client
+	url = https://github.com/Localhost-308/client
