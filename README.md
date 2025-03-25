@@ -1,12 +1,12 @@
 # Projeto Integrator Fatec 6º Semestre
-![](D:/Faculdade/Github/API-BD6/assets/capa-github.png)
+![]()
 
 <p align="center">
  
 </p>
 
 <h1 align="center">
-    <img alt="LocalHost306" title="#LocalHost06" src="D:/Faculdade/Github/API-BD6/assets/capa-github.png" />
+    <img alt="LocalHost306" title="#LocalHost06" src="https://github.com/Localhost-308/API-BD6/blob/main/assets/capa-github.png" />
 </h1>
 
 <h4 align="center"> 
