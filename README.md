@@ -27,17 +27,17 @@
  <a href="#-contribuidores">Contribuidores</a> • 
 </p>
 
-## Documentação
-A documentação está disponível em duas versões:
-
-- 🌐 [Versão web](https://localhost-308.github.io/manual/) (recomentado)
-- 🗎 [Documento PDF](https://localhost-308.github.io/manual/pdf/document.pdf)
-
 ## 🌱 Sobre o Projeto
 
 O **Projeto Integrator Fatec 6º Semestre** tem como objetivo desenvolver uma **API para gerenciamento de áreas reflorestadas**, permitindo o acompanhamento detalhado do progresso do reflorestamento, saúde das árvores, impacto ambiental e fontes de financiamento.
 
 A API fornecerá **ferramentas avançadas de análise e visualização** para monitorar as mudanças ambientais ao longo do tempo, garantindo que usuários possam **acompanhar e otimizar os esforços de recuperação ambiental**.
+
+## 📚 Documentação
+A documentação está disponível em duas versões:
+
+- 🌐 [Versão web](https://localhost-308.github.io/manual/) (recomentado)
+- 🗎 [Documento PDF](https://localhost-308.github.io/manual/pdf/document.pdf)
 
 ### 🎯 Objetivos principais
 - Criar uma API eficiente para a **gestão de áreas reflorestadas**.
