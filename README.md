@@ -33,7 +33,7 @@ O **Projeto Integrator Fatec 6º Semestre** tem como objetivo desenvolver uma **
 
 A API fornecerá **ferramentas avançadas de análise e visualização** para monitorar as mudanças ambientais ao longo do tempo, garantindo que usuários possam **acompanhar e otimizar os esforços de recuperação ambiental**.
 
-## 📚 Documentação
+### 📚 Documentação
 A documentação está disponível em duas versões:
 
 - 🌐 [Versão web](https://localhost-308.github.io/manual/) (recomentado)
