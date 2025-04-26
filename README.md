@@ -27,6 +27,11 @@
  <a href="#-contribuidores">Contribuidores</a> • 
 </p>
 
+## Documentação
+A documentação está disponível em duas versões:
+
+- 🌐 [Versão web](https://localhost-308.github.io/manual/) (recomentado)
+- 🗎 [Documento PDF](https://localhost-308.github.io/manual/pdf/document.pdf)
 
 ## 🌱 Sobre o Projeto
 
@@ -123,13 +128,16 @@ $ npm run start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### []()**Website**
+### []()**Website**
 
--   **[clique aqui]()**
+- **[ReactJS](https://pt-br.reactjs.org/)**
+- [Icones Ant Design](https://ant.design/components/icon)
+- [Icones Material](https://fonts.google.com/icons)
 
-#### []()**Server** 
+### []()**Server** 
 
--   **[Tecnolgia 1](google.com)**
+- **[Flask](https://flask.palletsprojects.com/en/stable/)**
+- [Posgres](https://www.postgresql.org/)
 
 #### []()**Utilitários**
 
